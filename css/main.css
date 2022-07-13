@@ -1,0 +1,11 @@
+body{background-color:rgba(221, 245, 114, 0.4);}
+
+#hero{height: 35vh;}
+
+
+@media (max-width:580px){
+  main,.row{height: 120vh;}
+.row div{height: 40vh;padding-bottom: 3vh;}
+
+}
+
